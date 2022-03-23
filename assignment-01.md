@@ -6,6 +6,10 @@ E.g. Question <br>
 1. What is the difference between private limited and public limited company? State one example for each type.
 
 2. Why is Berjaya Sports Toto Berhad registered under Non-Shariah Compliant?
+  - because it is a corporate that involves betting and gambling, which goes against the Shariah Law
+  
+[ref1](https://av.sc.com/my/content/docs/Non-Syariah-Compliant-Business-Activities_ref.pdf)
+[ref2](https://www.berjaya.com/berjaya-sports-toto/corporate-profile.php)
 
 3. List down 3 Non-Shariah Compliant Business Activities. 
 
