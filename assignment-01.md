@@ -4,6 +4,17 @@ E.g. Question <br>
 {Answer} {Reference}
 
 1. What is the difference between private limited and public limited company? State one example for each type.
+   **Private limited company**
+   - shares are privately held by internal members only
+   - not listed on a stock exchange
+   - exp: ASTRO Holdings Sdn. Bhd
+   **Public limited company**
+   - listed on a recognized stock exchange
+   - stocks are traded publicly
+   - exp: Public Bank Berhad
+
+[ref1](https://www.paulhypepage.my/what-is-a-private-limited-company-in-malaysia/)
+[ref2](https://keydifferences.com/difference-between-public-company-and-private-company.html)x
 
 2. Why is Berjaya Sports Toto Berhad registered under Non-Shariah Compliant?
   - because it is a corporate that involves betting and gambling, which goes against the Shariah Law
